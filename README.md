@@ -12,6 +12,7 @@ Repositórios para armazenar resumos sobre Git e Github do curso versionamento d
  |-------|---------|
  |Gravando alterações Repositórios | [Resumos]()|
  |git init
+ |Enviando e Baixando Alterações com o Repositório Remoto | [Resumos]()|
  |...
 
  # 🔎 Referências
